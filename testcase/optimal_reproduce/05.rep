@@ -1,0 +1,7 @@
+分批
+GROUP_SIZE = 9
+TIME_OUT = 240.0
+
+分批
+GROUP_SIZE = 8
+TIME_OUT = 960.0
