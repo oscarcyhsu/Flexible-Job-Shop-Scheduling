@@ -9,7 +9,7 @@ The total time required to finish all the jobs.
 
 **weighted total completion time**
 <br>
-<img src="https://github.com/yang611/Flexible-Job-Shop-Scheduling/blob/master/img/formula.png" width="800">
+<img src="https://github.com/yang611/Flexible-Job-Shop-Scheduling/blob/master/img/formula.png" width="600">
 
 
 
