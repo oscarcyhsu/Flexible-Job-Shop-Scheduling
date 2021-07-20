@@ -7,11 +7,13 @@ Flexible job shopping is an extenstion of classical job shopping problem, which 
 The total time required to finish all the jobs.
 
 **weighted total completion time**
-<img src="https://github.com/yang611/Flexible-Job-Shop-Scheduling/blob/master/img/formula.png" width="900">
+<br>
+<img src="https://github.com/yang611/Flexible-Job-Shop-Scheduling/blob/master/img/formula.png" width="600">
 
 
 
 Our goal is to minimize the sum of makespan total weighted completion time.
+<br>
 <img src="https://github.com/yang611/Flexible-Job-Shop-Scheduling/blob/master/img/objective.png" width="140">
 
 
