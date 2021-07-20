@@ -4,11 +4,12 @@
 Flexible job shopping is an extenstion of classical job shopping problem, which allows a given task to run on any machine in the given set. In this challenge , we also generalize the matric to optimize.
 
 **Makespan**
+<br>
 The total time required to finish all the jobs.
 
 **weighted total completion time**
 <br>
-<img src="https://github.com/yang611/Flexible-Job-Shop-Scheduling/blob/master/img/formula.png" width="600">
+<img src="https://github.com/yang611/Flexible-Job-Shop-Scheduling/blob/master/img/formula.png" width="800">
 
 
 
